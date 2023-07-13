@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* Documento de CSS */
+
+#zonaformularios{
+    margin-left: 100px;
+    padding: 20px;
+    border: none;
+}
+
+#zonadatos{
+    float: left;
+    width: 500px;
+    margin: 20px 20px;
+    padding: 20px;
+    border: 3px dotted red;
+}
+
+#zonarecpecion{
+    width: 500px;
+    height: 350px;
+    margin: 50px 700px;
+    padding: 20px;
+    border: 4px dotted blue;
+
+}

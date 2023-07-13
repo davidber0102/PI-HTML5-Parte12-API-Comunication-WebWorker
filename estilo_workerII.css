@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* Documento de CSS */
+
+#zonaformulario{
+    float: left;
+    padding: 30px;
+    border: 3px dotted blue;
+}
+
+#zonadatos{
+    float: left;
+    width: 600px;
+    margin-left: 50px;
+    padding: 30px;
+    border: 5px dotted red;
+}
